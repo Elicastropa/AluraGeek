@@ -1,0 +1,76 @@
+{
+  "productos": [
+    {
+      "id": "7b71",
+      "nombre": "Stormtrooper",
+      "precio": "800.00",
+      "imagen": "./img/unsplash_6FDXGY9J6y4.png"
+    },
+    {
+      "nombre": "Game Boy Classic",
+      "precio": "60.00",
+      "imagen": "./img/game.png",
+      "id": "87b9"
+    },
+    {
+      "id": "7b71",
+      "nombre": "Stormtrooper",
+      "precio": "800.00",
+      "imagen": "./img/unsplash_6FDXGY9J6y4.png"
+    },
+    {
+      "nombre": "Game Boy Classic",
+      "precio": "60.00",
+      "imagen": "./img/game.png",
+      "id": "87b9"
+    },
+    {
+      "id": "7b71",
+      "nombre": "Stormtrooper",
+      "precio": "800.00",
+      "imagen": "./img/unsplash_6FDXGY9J6y4.png"
+    },
+    {
+      "nombre": "Game Boy Classic",
+      "precio": "60.00",
+      "imagen": "./img/game.png",
+      "id": "87b9"
+    },
+    {
+      "id": "7b71",
+      "nombre": "Stormtrooper",
+      "precio": "800.00",
+      "imagen": "./img/unsplash_6FDXGY9J6y4.png"
+    },
+    {
+      "id": "1603",
+      "nombre": "Elizabeth",
+      "precio": "200.000",
+      "imagen": "./img/game.png"
+    },
+    {
+      "id": "7b71",
+      "nombre": "Stormtrooper",
+      "precio": "120.00",
+      "imagen": "./img/unsplash_6FDXGY9J6y4.png"
+    },
+    {
+      "id": "7b71",
+      "nombre": "Stormtrooper",
+      "precio": "120.00",
+      "imagen": "./img/unsplash_6FDXGY9J6y4.png"
+    },
+    {
+      "id": "6760",
+      "nombre": "Enola",
+      "precio": "350.000",
+      "imagen": "./img/Enola.png"
+    },
+    {
+      "id": "87bv9",
+      "nombre": "Game Boy Classic",
+      "precio": "600.00",
+      "imagen": "./img/game.png"
+    }
+  ]
+}
